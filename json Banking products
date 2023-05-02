@@ -1,0 +1,96 @@
+{
+  "products": [
+    {
+      "product_name": "Savings Account",
+      "base_interest_rate": 0.05,
+      "term_options": [
+        {
+          "term": "3 months",
+          "interest_rate": 0.05
+        },
+        {
+          "term": "6 months",
+          "interest_rate": 0.05
+        },
+        {
+          "term": "1 year",
+          "interest_rate": 0.05
+        },
+        {
+          "term": "2 years",
+          "interest_rate": 0.05
+        },
+        {
+          "term": "3 years",
+          "interest_rate": 0.05
+        }
+      ],
+      "promotional_term_options": [
+        {
+          "term": "6 months",
+          "interest_rate": 0.1,
+          "start_date": "2023-06-01",
+          "end_date": "2023-12-31"
+        },
+        {
+          "term": "1 year",
+          "interest_rate": 0.15,
+          "start_date": "2023-01-01",
+          "end_date": "2023-12-31"
+        },
+        {
+          "term": "2 years",
+          "interest_rate": 0.2,
+          "start_date": "2023-01-01",
+          "end_date": "2023-06-30"
+        }
+      ]
+    },
+    {
+      "product_name": "Term Deposit",
+      "base_interest_rate": 0.1,
+      "term_options": [
+        {
+          "term": "3 months",
+          "interest_rate": 0.1
+        },
+        {
+          "term": "6 months",
+          "interest_rate": 0.1
+        },
+        {
+          "term": "1 year",
+          "interest_rate": 0.1
+        },
+        {
+          "term": "2 years",
+          "interest_rate": 0.1
+        },
+        {
+          "term": "3 years",
+          "interest_rate": 0.1
+        }
+      ],
+      "promotional_term_options": [
+        {
+          "term": "6 months",
+          "interest_rate": 0.15,
+          "start_date": "2023-06-01",
+          "end_date": "2023-12-31"
+        },
+        {
+          "term": "1 year",
+          "interest_rate": 0.2,
+          "start_date": "2023-01-01",
+          "end_date": "2023-12-31"
+        },
+        {
+          "term": "2 years",
+          "interest_rate": 0.25,
+          "start_date": "2023-01-01",
+          "end_date": "2023-06-30"
+        }
+      ]
+    }
+  ]
+}
